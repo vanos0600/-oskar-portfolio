@@ -10,10 +10,10 @@ export default function Projects() {
       title: "PhysioApp - Management System",
       description: "Complete application for managing patients, appointments, and physiotherapy treatments with full-stack integration.",
       images: [
-        "public/screenshots/login.jpg",
-        "public/screenshots/patients.jpg",
-        "public/screenshots/register.jpg",
-        "public/screenshots/forgot-password.jpg"
+        "/screenshots/login.jpg",
+        "/screenshots/patients.jpg",
+        "/screenshots/register.jpg",
+        "/screenshots/forgot-password.jpg"
       ],
       tech: ["React", "Tailwind CSS", "Node.js", "MongoDB", "Express"]
     },
