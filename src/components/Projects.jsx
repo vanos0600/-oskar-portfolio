@@ -10,10 +10,10 @@ export default function Projects() {
       title: "PhysioApp - Management System",
       description: "Complete application for managing patients, appointments, and physiotherapy treatments with full-stack integration.",
       images: [
-        "src/components/screenshots/login.jpg",
-        "src/components/screenshots/patients.jpg",
-        "src/components/screenshots/register.jpg",
-        "src/components/screenshots/forgot-password.jpg"
+        "public/screenshots/login.jpg",
+        "public/screenshots/patients.jpg",
+        "public/screenshots/register.jpg",
+        "public/screenshots/forgot-password.jpg"
       ],
       tech: ["React", "Tailwind CSS", "Node.js", "MongoDB", "Express"]
     },
@@ -21,9 +21,9 @@ export default function Projects() {
       title: "Personal Portfolio",
       description: "Web portfolio created with React and Tailwind CSS showcasing projects, skills, and professional experience.",
       images: [
-        "src/components/screenshots/personal.png",
-        "src/components/screenshots/info.png",
-        "src/components/screenshots/tech.png"
+        "public/screenshots/personal.png",
+        "public/screenshots/info.png",
+        "public/screenshots/tech.png"
       ],
       tech: ["React", "Tailwind CSS", "Framer Motion"]
     },
@@ -31,8 +31,8 @@ export default function Projects() {
       title: "Crypto Mini Tracker",
       description: "stylish web application that displays real-time prices and 24h change for popular cryptocurrencies like Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP). ",
       images: [
-        "src/components/screenshots/crypto1.png",
-        "src/components/screenshots/crypto2.png",
+        "public/screenshots/crypto1.png",
+        "public/screenshots/crypto2.png",
       ],
       tech: ["Next.js", "TypeScript", "Firebase"]
     },
