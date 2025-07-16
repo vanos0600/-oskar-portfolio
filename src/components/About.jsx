@@ -56,7 +56,7 @@ export default function About() {
                   <div className="bg-gradient-to-b from-blue-50 to-blue-100 w-full h-96 flex items-center justify-center">
                     <div className="relative z-10">
                       <img
-                        src="public/screenshots/logo.jpg"
+                        src="/screenshots/logo.jpg"
                         alt="Oskar Vanegas"
                         className="w-64 h-64 rounded-full object-cover border-4 border-blue-300 shadow-lg"
                       />

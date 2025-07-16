@@ -21,9 +21,9 @@ export default function Projects() {
       title: "Personal Portfolio",
       description: "Web portfolio created with React and Tailwind CSS showcasing projects, skills, and professional experience.",
       images: [
-        "public/screenshots/personal.png",
-        "public/screenshots/info.png",
-        "public/screenshots/tech.png"
+        "/screenshots/personal.png",
+        "/screenshots/info.png",
+        "/screenshots/tech.png"
       ],
       tech: ["React", "Tailwind CSS", "Framer Motion"]
     },
@@ -31,8 +31,8 @@ export default function Projects() {
       title: "Crypto Mini Tracker",
       description: "stylish web application that displays real-time prices and 24h change for popular cryptocurrencies like Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP). ",
       images: [
-        "public/screenshots/crypto1.png",
-        "public/screenshots/crypto2.png",
+        "/screenshots/crypto1.png",
+        "/screenshots/crypto2.png",
       ],
       tech: ["Next.js", "TypeScript", "Firebase"]
     },
