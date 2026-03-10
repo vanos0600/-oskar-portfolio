@@ -62,7 +62,7 @@ export default function About() {
                 color: 'var(--white)', marginBottom: 28, lineHeight: 1.05,
               }}
             >
-              From Managua<br />to Prague,<br />
+              From EL Jicaral - Leon<br />to Prague,<br />
               <span style={{ color: 'var(--accent)' }}>building</span> with purpose.
             </motion.h2>
 
