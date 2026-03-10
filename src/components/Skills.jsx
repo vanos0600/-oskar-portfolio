@@ -51,6 +51,7 @@ export default function Skills() {
       title: 'Backend & DB',
       color: '#f97316',
       skills: [
+        { name: 'Python',     icon: <FaCode />,      level: 82 },
         { name: 'Node.js',    icon: <SiNodedotjs />, level: 78 },
         { name: 'Express.js', icon: <SiExpress />,   level: 75 },
         { name: 'MongoDB',    icon: <SiMongodb />,   level: 72 },
